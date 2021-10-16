@@ -1,0 +1,4 @@
+﻿  Problema8.cpp
+C:\GitHub\Tema_SD_Lab2\Problema8\Problema8\Problema8.cpp(8,12): warning C4101: 'p': unreferenced local variable
+C:\GitHub\Tema_SD_Lab2\Problema8\Problema8\Problema8.cpp(8,31): warning C4101: 'prima': unreferenced local variable
+  Problema8.vcxproj -> C:\GitHub\Tema_SD_Lab2\Problema8\Debug\Problema8.exe
